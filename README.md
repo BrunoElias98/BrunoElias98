@@ -17,6 +17,8 @@ Hi, I'm **Bruno Elias**, a Software Developer passionate about building scalable
 
 ## 📈 GitHub Stats
 ![Bruno Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoElias98&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoElias98&layout=compact&theme=dark)
+
 
 <!--
 **BrunoElias98/BrunoElias98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
