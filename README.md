@@ -17,6 +17,8 @@ Hi, I'm **Bruno Elias**, a Software Developer passionate about building scalable
 
 ## 📈 GitHub Stats
 ![Bruno Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoElias98&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoElias98&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoElias98&layout=compact&theme=dark)
 
 
