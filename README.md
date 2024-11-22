@@ -4,7 +4,7 @@ Hi, I'm **Bruno Elias**, a Software Developer passionate about building scalable
 
 ## 🚀 Skills
 - **Languages:** JavaScript, PHP, SQL
-- **Frameworks:** React, React Native, Angular, Node.js
+- **Frameworks:** React, React Native, NextJS, Angular, Node.js
 - **Tools:** Git, Vitest/Jest, Cypress, Docker
 - **Databases:** PostgreSQL, MySQL, MongoDB
 
