@@ -13,7 +13,7 @@ Hi, I'm **Bruno Elias**, a Software Developer passionate about building scalable
 - [Project B](https://github.com/BrunoElias98/project-b) - A brief description of the project.
 -->
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/brunoelias98)
+- [LinkedIn]([https://linkedin.com/in/brunoelias98](https://www.linkedin.com/in/bruno-elias-de-souza-780851161/))
 
 ## 📈 GitHub Stats
 ![Bruno Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoElias98&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
