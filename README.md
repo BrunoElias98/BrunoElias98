@@ -35,6 +35,7 @@ I enjoy designing software architectures, building enterprise applications and c
 ### Artificial Intelligence
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-444444?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
