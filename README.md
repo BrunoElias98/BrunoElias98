@@ -63,7 +63,7 @@ I enjoy designing software architectures, building enterprise applications and c
 ## 💼 What I Do
 
 - 📱 Cross-platform mobile development with **React Native**
-- 🌐 Enterprise web applications with **React**, **Next.js** and **Angular**
+- 🌐 Enterprise web applications with **React** and **Next.js** 
 - 🧩 Native Microfrontends with **Re.Pack**
 - 🧩 Web Microfrontends using **Webpack Module Federation**
 - 🤖 AI Agents, LLM integrations and RAG solutions
